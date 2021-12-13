@@ -1,0 +1,2 @@
+# docker-haproxy02
+Dockerfile构建haproxy镜像基于alpine镜像
